@@ -1,5 +1,8 @@
 # React-shop-cloudfront
 
+- CloudFront URL: https://d1dea8fqyqa20b.cloudfront.net/
+- S3-website: http://my-second-rs-aws-app.s3-website-us-east-1.amazonaws.com
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
@@ -69,3 +72,4 @@ Combination of `cloudfront:setup` and `cloudfront:build:deploy` commands with or
 ### `serverless:remove`
 
 Remove an entire stack configured in `serverless.yml` via CloudFormation.
+
