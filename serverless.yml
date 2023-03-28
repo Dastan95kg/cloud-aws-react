@@ -30,7 +30,7 @@ plugins:
 
 custom:
   client:
-    bucketName: my-second-rs-aws-app
+    bucketName: my-first-rs-aws-app
     distributionFolder: dist
 
   ## Serverless-single-page-app-plugin configuration
