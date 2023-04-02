@@ -1,7 +1,7 @@
 # React-shop-cloudfront
 
 - CloudFront URL: https://da7y6duc833e7.cloudfront.net/
-- S3-website: http://my-second-rs-aws-app.s3-website-us-east-1.amazonaws.com
+- S3-website: http://my-first-rs-aws-app.s3-website-us-east-1.amazonaws.com
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
